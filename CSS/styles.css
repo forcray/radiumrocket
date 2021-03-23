@@ -1,1 +1,54 @@
-body {
+
+
+h1 {
+    font-size: 50px;
+    font-family: Lucida Sans;
+    font-weight: lighter;
+}
+
+
+.gif {
+    width: 1100px;
+    margin: auto;
+    background:rgb(0, 0, 0) ;
+    padding-left: 21%;
+    padding-right: 21%;
+
+}
+
+.rojo li {
+    list-style: none;
+    font: bold 14px rgb(255, 255, 255);
+    display: inline-block;
+    margin: 3px 0;
+    text-align: center;
+    background: crimson;
+    margin: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+p {
+    font-size: 19px;
+    font-family: Lucida Sans;
+    font-weight: lighter;
+    width: 700px;
+}
+
+.todo  {
+        width: 1100px;
+        text-align: left
+        height: 150px;
+        margin: auto;
+          }
+
+aside {
+    width: 250px;
+    float: right;
+    margin: 5px 0;
+}
+
+.pie  {
+    width: 1100px;
+    text-align: left
+
+      }

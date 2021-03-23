@@ -1,0 +1,86 @@
+
+h1 {
+    font-size: 50px;
+    font-family: Georgia;
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: georgia;
+    font-weight: inherit;
+
+}
+
+p {
+    font-size: 19px;
+    font-family: georgia;
+    font-weight: lighter;
+    width: 700px;
+
+}
+
+nav, footer {
+    border: 1px solid black
+}
+
+body {
+    text-align: left;
+}
+
+.body {
+    width: 1100px;
+    margin: auto;
+}
+
+.body2 {
+    width: 900px;
+}
+
+.publicity {
+    padding: 100px;
+    background-color:rgb(235, 235, 235)
+
+}
+
+.bordecito {
+    border: 1px solid rgb(238, 236, 236);
+    font-size: 11px;
+    font-family: georgia;
+    font-weight: lighter;
+    text-align: center;
+    margin: 20px
+
+}
+.book {
+    align-items:center
+}
+.head li {
+    list-style: none;
+    padding: 1px;
+    font: bold 14px rgb(129, 19, 19);
+    display: inline-block;
+    width: 500px;
+    margin: 5px 0;
+    
+}
+
+.articulos li {
+    list-style: none;
+    padding: 45px;
+    font: bold 14px rgb(129, 19, 19);
+    display: inline-block;
+    width: 20%;
+    margin: 50px 0;
+}
+
+.head1 li {
+    list-style: none;
+    padding: 60px black;
+    font: bold 14px rgb(129, 19, 19);
+    display: inline-block;
+    width: 110px;
+    margin: 50px 0 black;
+    background-color: blanchedalmond ;
+    
+}
